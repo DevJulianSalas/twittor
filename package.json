@@ -1,0 +1,12 @@
+{
+    "name": "twittor",
+    "version": "1.0.0",
+    "main": "./js/app.js",
+    "scripts": {
+      "serve": "http-server -o"
+    },
+    "license": "MIT",
+    "dependencies": {
+      "http-server": "^0.12.1"
+    }
+  }
